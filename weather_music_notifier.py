@@ -3,7 +3,7 @@ from twilio.rest import Client
 
 # Credentials and configuration
 weather_api_key = '38d5939a09c3163059825c74843b4132'
-city = 'London'
+city = 'Ghaziabad'
 twilio_account_sid = 'AC0f0dc35b367ac81165494f681a9c260b'
 twilio_auth_token = '9b79e2f4c12b53eb66ec781489e48df8'
 whatsapp_sandbox_number = 'whatsapp:+13479675562'
